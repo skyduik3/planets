@@ -6,9 +6,9 @@
 
 1. 컴시설
 2. 본인
-..*2010136102
+..* 2010136102
 
-*cse
+* cse
 
 [인라인 google](https://www.google.com)
 [참조 naver][Arbitrary case-insenstive reference text]
