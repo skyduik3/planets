@@ -4,10 +4,11 @@
 단점으로는 표준의 부재가 있다. ~~별로다.~~
 *Italic*  **Bold**
 
-목록연습
-..*목록1
+1. 컴시설
+2. 본인
+..*2010136102
 
-*목록2
+*cse
 
 [인라인 google](https://www.google.com)
 [참조 naver][Arbitrary case-insenstive reference text]
