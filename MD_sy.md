@@ -59,5 +59,5 @@ markdown|less|pretty
 
 이미지
 
-<p><img src='http://cfile27.uf.tistory.com.original/23364146562748C517929E' alt = '{마크다운 이미지입니다}'></p>
+<p><img src="https://raw.github.com/dcurtis/markdown-mark/master/png/208x128.png" alt="마크다운 로고"></p>
 
