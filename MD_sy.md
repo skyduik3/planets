@@ -59,5 +59,5 @@ markdown|less|pretty
 
 이미지
 
-<img src='http://cfile27.uf.tistory.com.original/23364146562748C517929E' alt = '{마크다운 이미지입니다}'>
+<p><img src='http://cfile27.uf.tistory.com.original/23364146562748C517929E' alt = '{마크다운 이미지입니다}'></p>
 
