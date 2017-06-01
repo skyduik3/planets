@@ -42,13 +42,11 @@
  첫번째 사례는 *스마트 옷장*입니다.
 외부로부터 날씨 API를 받아 사용자에게 코디를 추천해줍니다.
 [dbpia논문 링크](http://insight.dbpia.co.kr/metrics.do?nodedId=NODE06554464)
-![연관이미지]
-(./img/closet (사본).jpeg)
+![연관이미지](./img/closet (사본).jpeg)
 
 2.보도블럭 패턴_논문
  두번째 사례는 *보도블록 인식기술*입니다.
 영상의 형태 패턴과 텍스처 특징을 이용하여 보도블럭을 인식하는 기술입니다.
 [dbpia논문 링크](http://www.dbpia.co.kr/Journal/ArticleDetail/NODE01908129)
-![연관이미지]
-(./img/block (사본).jpeg)
+![연관이미지](./img/block (사본).jpeg)
 
