@@ -39,7 +39,7 @@ Strikethrough uses two tildes.~~Scratch this.~~
 
 [You can use numbers for reference-style link definitions][1]
 
-[arbitrary case-insensitive reference text]:https://www.mozila.org
+[arbitrary case-insensitive reference text]:https://www.naver.com
 [1]:http://slashdot.org
 
 코드(Code and Syntax Highlighting)
