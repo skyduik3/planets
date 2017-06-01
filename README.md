@@ -50,3 +50,13 @@
 [dbpia논문 링크](http://www.dbpia.co.kr/Journal/ArticleDetail/NODE01908129)
 ![연관이미지](./img/block.jpeg)
 
+3.기계학습 의류 자동 매칭_논문
+ 세번째 사례는 *기계학습 의류 자동매칭기술*입니다.
+해당 논문은 기본적인 **전문가의 트레이닝 데이터**와 이를 기반으로 한 기계학습모$
+![IMAGE](./img/MachineTraining.png)
+[기계학습을 활용한 상하의 의류 자동매칭 시스템](http://insight.dbpia.co.kr/article/metrics.do?nodeId=NODE01595278)
+
+4.RFID 수납관리 시스템_특허
+ 네번째 사례는 *RFID 수납관리 시스템*입니다.
+해당 논문은 RFID를 이용해서 물건들의 상태와 위치를 알 수 있고 관리하기 쉽도록 만들어놓은 시스템이다.
+[RFID 기술을 이용한 세대 수납관리 시스템] : ![IMAGE](./img/RFID.png)
